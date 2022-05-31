@@ -23,8 +23,6 @@ Developed by Helen Furtner to [Gerador de Ideias](https://www.geradordeideias.co
 
 3. Insert the blocks into your store block:
 
-- "main-widget" to display the opinion widget to your product page.
-
 - "slider-widget" to display opinion carousel block
 
 Example:

@@ -1,7 +1,4 @@
 {
-  "main-widget": {
-    "component": "MainWidget"
-  },
   "slider-widget": {
     "component": "SliderWidget"
   }
