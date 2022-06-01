@@ -23,6 +23,38 @@ const SliderWidget = () =>
                             <img src="//colt.trustvox.com.br/images/trust-quote-bottom.png" style={{float:"right"}} alt="quote" />
                         </div>
                     </li>
+                    <li className="ts-active ts-trust-gray">
+                        <div className="ts-quote-top">
+                            <img src="//colt.trustvox.com.br/images/trust-quote-top.png" style={{float:"left"}} alt="quote" />
+                        </div>
+                        <div className="ts-opinion">
+                            <p></p>
+                            <small className="ts-opinion-author"></small>
+                            <small className="ts-opinion-date"></small>
+                            <div className="ts-trust-stars">
+                                <span className="ts-active-star"></span>
+                            </div>
+                        </div>
+                        <div className="ts-quote-bottom">
+                            <img src="//colt.trustvox.com.br/images/trust-quote-bottom.png" style={{float:"right"}} alt="quote" />
+                        </div>
+                    </li>
+                    <li className="ts-active ts-trust-gray">
+                        <div className="ts-quote-top">
+                            <img src="//colt.trustvox.com.br/images/trust-quote-top.png" style={{float:"left"}} alt="quote" />
+                        </div>
+                        <div className="ts-opinion">
+                            <p></p>
+                            <small className="ts-opinion-author"></small>
+                            <small className="ts-opinion-date"></small>
+                            <div className="ts-trust-stars">
+                                <span className="ts-active-star"></span>
+                            </div>
+                        </div>
+                        <div className="ts-quote-bottom">
+                            <img src="//colt.trustvox.com.br/images/trust-quote-bottom.png" style={{float:"right"}} alt="quote" />
+                        </div>
+                    </li>
                 </ul>
             </div>
             <span className="ts-prev-slide">
