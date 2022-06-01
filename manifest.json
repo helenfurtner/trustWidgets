@@ -1,7 +1,7 @@
 {
   "vendor": "joycefenolio",
   "name": "widgets",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "title": "Trustvox Widgets",
   "description": "Version 2.0.4 - An unofficial Trustvox app to display the main Trustvox widgets.",
   "builders": {
